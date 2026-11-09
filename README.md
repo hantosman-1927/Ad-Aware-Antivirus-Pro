@@ -205,4 +205,4 @@ This repository serves as the official landing page for Ad-Aware Antivirus Pro. 
 **Get the most recent version of Ad-Aware Antivirus Pro today!**
 
 ---
-**Last updated:** 2026-11-08 23:24:14 UTC
+**Last updated:** 2026-11-09 04:27:29 UTC
